@@ -7,8 +7,8 @@
 }
 
 html, body{
-    height: 98vh;
-    width: 97vw;
+    height: 100vh;
+    width: 99vw;
     background-color: black;
 }
 
@@ -30,7 +30,7 @@ section#telefone{
     left: 50%;  /*Centralizando*/
     transform: translate(-50%, -50%);   /*FINALIZANDO A CENTRALIZAÇÃO*/
 
-    height: 619px;
+    height: 609px;
     width: 307px;
     
     background: url(../imagens/frame-iphone.png) no-repeat;
@@ -42,7 +42,7 @@ iframe#tela{
     top: 80px;
     left: 22px;
     width: 265px;
-    height: 467px;
+    height: 457px;
 }
 
 section#redesSociais{
