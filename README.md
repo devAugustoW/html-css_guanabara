@@ -8,7 +8,7 @@
 Projeto que trabalha com o posicionamento de elementos e diversas tratativas com iframe.
 A página pode ser acessada no link abaixo:
 
-https://xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+https://devaugustow.github.io/html-css_guanabara/projeto-redesSociais/index.html
 <br><br>
 
 
