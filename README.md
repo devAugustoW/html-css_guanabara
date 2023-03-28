@@ -19,7 +19,7 @@ Projeto media query, técnica que permite aplicar estilos diferentes para difere
 A página pode ser acessada no link abaixo:
 
 
-https://xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+<a href="https://devaugustow.github.io/html-css_guanabara/projeto-mediaQuery/index.html">https://devaugustow.github.io/html-css_guanabara/projeto-mediaQuery/index.html</a
 <br><br>
 
 
@@ -28,7 +28,7 @@ https://xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 Projeto que utiliza os principais conceitos de formulário como métodos GET e POST, checkbox, radio bottun, range, select, datalist...
 O site pode ser acessado no link abaixo:
 
-https://xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+<a href="https://devaugustow.github.io/html-css_guanabara/projeto-login/index.html">https://devaugustow.github.io/html-css_guanabara/projeto-login/index.html</a>
 <br><br>
 
 ## 📘 Cordel
@@ -36,7 +36,7 @@ https://xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 Projeto que trabalha posicionamento de elementos e efeito paralaxe onde a imagem de fundo fica estática em quanto o site scrola para cima ou para baixo.
 O site pode ser visualizado no link abaixo:
 
-https://xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+<a href="https://devaugustow.github.io/html-css_guanabara/projeto-cordel/index.html">https://devaugustow.github.io/html-css_guanabara/projeto-cordel/index.html</a>
 <br><br>
 
 ## 📘 Android
@@ -44,27 +44,9 @@ https://xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 Projeto que conta sobre a história do mascote do Android. Fala sobre as primeiras tentativas e repaginada que a ilustradora russa, Irina Block deu na versão anterior a dela.
 O site pode ser acessado no link abaixo:
 
-https://xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-<<<<<<< HEAD
-
-## Cordel
-
-Projeto que trabalha posicionamento de elementos e efeito paralaxe onde a imagem de fundo fica estática em quanto o site scrola para cima ou para baixo.
-O site pode ser visualizado no link abaixo:
-
-https://xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-<br>
-
-## Android
-
-Projeto que conta sobre a história do mascote do Android. Fala sobre as primeiras tentativas e repaginada que a ilustradora russa, Irina Block deu na versão anterior a dela.
-O site pode ser acessado no link abaixo:
-
-https://xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+<a href="https://devaugustow.github.io/html-css_guanabara/projeto-android/android.html"> https://devaugustow.github.io/html-css_guanabara/projeto-android/android.html</a>
 
 
 
 
- 
-=======
->>>>>>> 250aaa5366d5d1f25bba6f09945e3c1fa78bfd9e
+
