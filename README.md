@@ -10,7 +10,7 @@ A página pode ser acessada no link abaixo:
 
 <a href="https://devaugustow.github.io/html-css_guanabara/projeto-redesSociais/index.html">https://devaugustow.github.io/html-css_guanabara/projeto-redesSociais/index.html</a>
 
-<br><br><br>
+<br><br>
 
 
 ## 📘 Media Queries
