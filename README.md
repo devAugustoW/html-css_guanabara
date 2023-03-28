@@ -10,7 +10,7 @@ A página pode ser acessada no link abaixo:
 
 <a href="https://devaugustow.github.io/html-css_guanabara/projeto-redesSociais/index.html">https://devaugustow.github.io/html-css_guanabara/projeto-redesSociais/index.html</a>
 
-<br><br>
+<br><br><br>
 
 
 ## 📘 Media Queries
@@ -20,7 +20,7 @@ A página pode ser acessada no link abaixo:
 
 
 <a href="https://devaugustow.github.io/html-css_guanabara/projeto-mediaQuery/index.html">https://devaugustow.github.io/html-css_guanabara/projeto-mediaQuery/index.html</a>
-<br><br>
+<br><br><br>
 
 
 ## 📘 Tela de login
@@ -29,7 +29,7 @@ Projeto que utiliza os principais conceitos de formulário como métodos GET e P
 O site pode ser acessado no link abaixo:
 
 <a href="https://devaugustow.github.io/html-css_guanabara/projeto-login/index.html">https://devaugustow.github.io/html-css_guanabara/projeto-login/index.html</a>
-<br><br>
+<br><br><br>
 
 ## 📘 Cordel
 
@@ -37,7 +37,7 @@ Projeto que trabalha posicionamento de elementos e efeito paralaxe onde a imagem
 O site pode ser visualizado no link abaixo:
 
 <a href="https://devaugustow.github.io/html-css_guanabara/projeto-cordel/index.html">https://devaugustow.github.io/html-css_guanabara/projeto-cordel/index.html</a>
-<br><br>
+<br><br><br>
 
 ## 📘 Android
 
