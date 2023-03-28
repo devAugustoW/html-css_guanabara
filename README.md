@@ -45,6 +45,7 @@ Projeto que conta sobre a história do mascote do Android. Fala sobre as primeir
 O site pode ser acessado no link abaixo:
 
 https://xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+<<<<<<< HEAD
 
 ## Cordel
 
@@ -65,3 +66,5 @@ https://xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 
  
+=======
+>>>>>>> 250aaa5366d5d1f25bba6f09945e3c1fa78bfd9e
