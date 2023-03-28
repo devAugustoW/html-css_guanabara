@@ -5,7 +5,7 @@
 
 ## 📘 Redes Sociais - iframe
 
-Projeto que trabalha com o posicionamento de elementos e diversas tratativas com iframe.
+Projeto que trabalha com o posicionamento de elementos e diversas tratativas com iframe.<br>
 A página pode ser acessada no link abaixo:
 
 <a href="https://devaugustow.github.io/html-css_guanabara/projeto-redesSociais/index.html">https://devaugustow.github.io/html-css_guanabara/projeto-redesSociais/index.html</a>
@@ -19,13 +19,13 @@ Projeto media query, técnica que permite aplicar estilos diferentes para difere
 A página pode ser acessada no link abaixo:
 
 
-<a href="https://devaugustow.github.io/html-css_guanabara/projeto-mediaQuery/index.html">https://devaugustow.github.io/html-css_guanabara/projeto-mediaQuery/index.html</a
+<a href="https://devaugustow.github.io/html-css_guanabara/projeto-mediaQuery/index.html">https://devaugustow.github.io/html-css_guanabara/projeto-mediaQuery/index.html</a>
 <br><br>
 
 
 ## 📘 Tela de login
 
-Projeto que utiliza os principais conceitos de formulário como métodos GET e POST, checkbox, radio bottun, range, select, datalist...
+Projeto que utiliza os principais conceitos de formulário como métodos GET e POST, checkbox, radio bottun, range, select, datalist...<br>
 O site pode ser acessado no link abaixo:
 
 <a href="https://devaugustow.github.io/html-css_guanabara/projeto-login/index.html">https://devaugustow.github.io/html-css_guanabara/projeto-login/index.html</a>
@@ -33,7 +33,7 @@ O site pode ser acessado no link abaixo:
 
 ## 📘 Cordel
 
-Projeto que trabalha posicionamento de elementos e efeito paralaxe onde a imagem de fundo fica estática em quanto o site scrola para cima ou para baixo.
+Projeto que trabalha posicionamento de elementos e efeito paralaxe onde a imagem de fundo fica estática em quanto o site scrola para cima ou para baixo.<br>
 O site pode ser visualizado no link abaixo:
 
 <a href="https://devaugustow.github.io/html-css_guanabara/projeto-cordel/index.html">https://devaugustow.github.io/html-css_guanabara/projeto-cordel/index.html</a>
@@ -41,7 +41,7 @@ O site pode ser visualizado no link abaixo:
 
 ## 📘 Android
 
-Projeto que conta sobre a história do mascote do Android. Fala sobre as primeiras tentativas e repaginada que a ilustradora russa, Irina Block deu na versão anterior a dela.
+Projeto que conta sobre a história do mascote do Android. Fala sobre as primeiras tentativas e repaginada que a ilustradora russa, Irina Block deu na versão anterior a dela.<br>
 O site pode ser acessado no link abaixo:
 
 <a href="https://devaugustow.github.io/html-css_guanabara/projeto-android/android.html"> https://devaugustow.github.io/html-css_guanabara/projeto-android/android.html</a>
